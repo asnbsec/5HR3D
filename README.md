@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hello! <img src="Hi.gif" width="28px"> 
 
-<!--
-**5HR3D/5HR3D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+𝗜'𝗺 [5HR3D](https://github.com/its5HR3D)! <b>Software Developer and Penetration Tester</b>
 
-Here are some ideas to get you started:
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=5HR3D&show_icons=true&hide_border=true">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<b> 🇮🇳 From India 🇮🇳 </b><br>
+
+<b> A teen who ❤️ to hack, listen to music 🎵 and automate things. <br>Am more focused into the web.</b>
+<br><br>
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. Posting soon <3
+
+<details>
+<summary>Wanna Know More About Me</summary>
+<br>
+Visit My <a href="http://5HR3D.c1.biz">Website</a>!
+<br><br>
+<details>
+<summary>Wanna Contact Me</summary>
+<br>
+Click <a href="http://linktr.ee/5HR3D">here</a>.
+</details>
+</details>
+<p align="center">© 5HR3D</p>
